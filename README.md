@@ -1,5 +1,35 @@
 ### Hello everyone 👋 im Eugenio Giménez
 
+```javascript
+    let techsObj = {
+    backEnd: [ "NodeJS", "ExpressJs", "Handlebars" ],
+    frontEnd: [ "HTML&CSS", "ReactJS", "Boostrap", "Axios" ],
+    database: [ "MongoDB"]
+    };
+
+    class WebDeveloper {
+      constructor(name, learn, code, techs, joke) {
+        this.name = name;
+        this.eagerToLearn = learn;
+        this.code = code;
+        this.technologies = techs;
+        this.joke = joke
+        }
+        
+        makeAJoke() {
+          console.log(this.joke)
+        }
+        
+        study() {
+          learn === true ? console.log(`Let's code some ${learn}`); : console.log(`Pick any tech and start train`);
+        }
+        
+    let eugenioGimenez = new WebDeveloper("Eugenio", "Django", "JavaScript", techsObj, "How can you tell that a web developer is 
+    working?.. You can hear him Grunting!" )
+     
+     eugenioGimenez.study()
+```
+
 <a href="https://www.linkedin.com/in/eogimenez/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@eoGimenez-blue?style=flat&logo=linkedin"></a>
 <!--
 **eoGimenez/eoGimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,14 +44,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<div>
-  <p>
-    Im a Web Developer and already use: <br>
-      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">
-      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">
-      
-  </p>
-</div>
 
 -->
