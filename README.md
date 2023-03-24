@@ -24,8 +24,8 @@
           learn === true ? console.log(`Let's code some ${learn}`); : console.log(`Pick any tech and start train`);
         }
         
-    let eugenioGimenez = new WebDeveloper("Eugenio", "Django", "JavaScript", techsObj, "How can you tell that a web developer is 
-    working?.. You can hear him Grunting!" )
+    let eugenioGimenez = new WebDeveloper("Eugenio", "Django", "JavaScript", techsObj, "How can you tell that a 
+    web developer is working?.. You can hear him Grunting!" )
      
      eugenioGimenez.study()
 ```
