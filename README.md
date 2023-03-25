@@ -21,7 +21,7 @@
         }
         
         study() {
-          this.eagerToLearn === true ? console.log(`Let's code some ${learn}`); : console.log(`Pick any tech and start train`);
+          this.eagerToLearn === true ? console.log(`Let's code some ${learn}`); : console.log(`Pick any and start train`);
         }
         
     let eugenioGimenez = new WebDeveloper("Eugenio", "Django", "JavaScript", techsObj, "How can you tell that a 
