@@ -31,6 +31,9 @@
 ```
 
 <a href="https://www.linkedin.com/in/eogimenez/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@eoGimenez-blue?style=flat&logo=linkedin"></a>
+
+<a href="https://portfolio-eogimenez.netlify.app/" target="_blank">⚡ My Portfolio ⚡</a>
+
 <!--
 **eoGimenez/eoGimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
