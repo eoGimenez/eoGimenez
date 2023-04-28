@@ -3,8 +3,8 @@
 ```javascript
     let techsObj = {
     backEnd: [ "NodeJS", "ExpressJs", "Handlebars" ],
-    frontEnd: [ "HTML&CSS", "ReactJS", "Boostrap", "Axios" ],
-    database: [ "MongoDB"]
+    frontEnd: [ "HTML&CSS", "ReactJS", "Boostrap" ],
+    database: [ "MongoDB" ]
     };
 
     class WebDeveloper {
