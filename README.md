@@ -4,7 +4,7 @@
     let techsObj = {
     backEnd: [ "NodeJS", "ExpressJs", "Handlebars" ],
     frontEnd: [ "HTML&CSS", "ReactJS", "Boostrap" ],
-    database: [ "MongoDB" ]
+    database: [ "MongoDB", "MySQL" ]
     };
 
     class WebDeveloper {
