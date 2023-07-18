@@ -2,7 +2,7 @@
 
 ```javascript
     let techsObj = {
-    backEnd: [ "NodeJS", "ExpressJs", "Handlebars" ],
+    backEnd: [ "NodeJS", "ExpressJs", "Handlebars", "FastAPI", "Django" ],
     frontEnd: [ "HTML&CSS", "ReactJS", "Boostrap" ],
     database: [ "MongoDB", "MySQL" ]
     };
