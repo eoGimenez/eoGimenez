@@ -24,7 +24,7 @@
           this.eagerToLearn === true ? console.log(`Let's code some ${learn}`); : console.log(`Pick any and start train`);
         }
         
-    let eugenioGimenez = new WebDeveloper("Eugenio", "Docker", ["JavaScript", "Python"], techsObj, "How can you tell that a 
+    let eugenioGimenez = new WebDeveloper("Eugenio", "testing", ["JavaScript", "Python"], techsObj, "How can you tell that a 
     web developer is working?.. You can hear him Grunting!" )
      
      eugenioGimenez.study()
