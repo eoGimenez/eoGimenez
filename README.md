@@ -4,7 +4,11 @@
     let techsObj = {
     backEnd: [ "NodeJS", "ExpressJs", "FastAPI", "Django" ],
     frontEnd: [ "HTML&CSS", "ReactJS", "Boostrap" ],
-    database: [ "MongoDB", "MySQL" ]
+    database: [ "MongoDB", "MySQL" ],
+    test: {
+        JavaScript: ["Vitest", "Jest"],
+        Python: ["Pytest"]
+            }
     };
 
     class WebDeveloper {
