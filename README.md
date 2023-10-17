@@ -7,7 +7,6 @@
     database: [ "MongoDB", "MySQL" ],
     test: {
         JavaScript: ["Vitest", "Jest"],
-        Python: ["Pytest"]
             }
     };
 
